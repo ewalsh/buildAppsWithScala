@@ -1,2 +1,8 @@
 *.class
 *.log
+.bloop/
+.bsp/
+.classpath
+project/
+target/
+.metals
